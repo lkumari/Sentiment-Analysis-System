@@ -1,0 +1,51 @@
+Review_ID,Detailed Review,Sentiment,Predicted_Sentiment,Confidence,Emoji,Processed_Timestamp
+1,This product is absolutely amazing! I love it,positive,positive,0.9873133371852872,😊,2026-05-20T14:13:44.328102
+2,Great quality and fast shipping,positive,positive,0.9970207400819479,😊,2026-05-20T14:13:44.330260
+3,Excellent service and great value for money,positive,positive,0.9998292019647691,😊,2026-05-20T14:13:44.331800
+4,Very satisfied with my purchase,positive,positive,0.8494891134614495,😊,2026-05-20T14:13:44.332915
+5,Highly recommend this to everyone,positive,positive,0.987057434693326,😊,2026-05-20T14:13:44.333839
+6,The product arrived on time and works perfectly,positive,positive,0.9970506628816755,😊,2026-05-20T14:13:44.334699
+7,Best purchase I've made in a long time,positive,positive,0.999670590118178,😊,2026-05-20T14:13:44.335533
+8,Outstanding customer service,positive,positive,0.9537237287046701,😊,2026-05-20T14:13:44.336462
+9,This is okay nothing special,neutral,neutral,0.9961990985688929,😐,2026-05-20T14:13:44.337197
+10,It's fine nothing exceptional,neutral,neutral,0.9943094624395181,😐,2026-05-20T14:13:44.337921
+11,Average product meets basic expectations,neutral,neutral,0.9998409705967358,😐,2026-05-20T14:13:44.339025
+12,Neither good nor bad reasonable,neutral,neutral,0.995421777665525,😐,2026-05-20T14:13:44.339761
+13,It does what it's supposed to do,neutral,neutral,0.5079417512362439,😐,2026-05-20T14:13:44.340493
+14,Decent quality for the price,neutral,neutral,0.5130647317794713,😐,2026-05-20T14:13:44.341224
+15,Acceptable but not memorable,neutral,neutral,0.8767314678740871,😐,2026-05-20T14:13:44.341941
+16,Product is mediocre at best,neutral,neutral,0.9518768614909701,😐,2026-05-20T14:13:44.342685
+17,This is terrible waste of money,negative,negative,0.9860838092916271,😞,2026-05-20T14:13:44.343408
+18,Very disappointed with the quality,negative,negative,0.45256547328724733,😞,2026-05-20T14:13:44.344195
+19,Poor packaging and defective product,negative,negative,0.9926549649793124,😞,2026-05-20T14:13:44.344922
+20,Awful experience complete disaster,negative,negative,0.5515653667489643,😞,2026-05-20T14:13:44.346949
+21,Not worth the price bad quality,negative,negative,0.9854217769815045,😞,2026-05-20T14:13:44.348450
+22,Horrible customer service worst purchase ever,negative,negative,0.9999306213353841,😞,2026-05-20T14:13:44.349325
+23,Broken on arrival completely useless,negative,negative,0.9968378218031797,😞,2026-05-20T14:13:44.350134
+24,Do not recommend this product,negative,negative,0.4754332753660253,😞,2026-05-20T14:13:44.350940
+25,Amazing quality highly satisfied,positive,positive,0.9990049369930954,😊,2026-05-20T14:13:44.351765
+26,Love the product excellent,positive,positive,0.663398982415032,😊,2026-05-20T14:13:44.352551
+27,Perfect exactly what I wanted,positive,neutral,0.42131069986721564,😐,2026-05-20T14:13:44.353419
+28,Outstanding value for money,positive,positive,0.9851206481552807,😊,2026-05-20T14:13:44.354257
+29,Very impressed with the quality,positive,positive,0.785894656128906,😊,2026-05-20T14:13:44.355043
+30,Great product would buy again,positive,positive,0.9928088589241336,😊,2026-05-20T14:13:44.356591
+31,Fantastic service very happy,positive,negative,0.4960056524273582,😞,2026-05-20T14:13:44.357697
+32,Wonderful experience highly recommend,positive,positive,0.9970188051632924,😊,2026-05-20T14:13:44.358511
+33,It's okay just average,neutral,neutral,0.7033336537011086,😐,2026-05-20T14:13:44.359277
+34,Standard product does its job,neutral,neutral,0.966801365033284,😐,2026-05-20T14:13:44.360006
+35,Satisfactory nothing remarkable,neutral,neutral,0.9914884114165456,😐,2026-05-20T14:13:44.360740
+36,Regular product as described,neutral,neutral,0.966801365033284,😐,2026-05-20T14:13:44.361766
+37,Works as intended nothing special,neutral,neutral,0.9994364101138111,😐,2026-05-20T14:13:44.362998
+38,Fine quality for the price point,neutral,neutral,0.9919660301880058,😐,2026-05-20T14:13:44.365764
+39,Acceptable meets expectations,neutral,neutral,0.9936811757668697,😐,2026-05-20T14:13:44.366795
+40,Mediocre product somewhat disappointed,neutral,neutral,0.5899413630348559,😐,2026-05-20T14:13:44.367777
+41,Absolutely horrible waste of time,negative,negative,0.9943760714883211,😞,2026-05-20T14:13:44.369404
+42,Very poor quality totally useless,negative,negative,0.9957817554635968,😞,2026-05-20T14:13:44.370274
+43,Disappointed very bad experience,negative,negative,0.9547576018689462,😞,2026-05-20T14:13:44.371087
+44,Terrible product save your money,negative,negative,0.994209475718093,😞,2026-05-20T14:13:44.372015
+45,Worst purchase ever made,negative,negative,0.9988840642906257,😞,2026-05-20T14:13:44.372885
+46,Defective and poorly made,negative,negative,0.5579203234360361,😞,2026-05-20T14:13:44.373657
+47,Avoid at all costs terrible,negative,negative,0.9825404044681934,😞,2026-05-20T14:13:44.374401
+48,Complete failure not happy,negative,negative,0.965680021873143,😞,2026-05-20T14:13:44.375367
+49,Fantastic product love it so much,positive,neutral,0.4349256920271806,😐,2026-05-20T14:13:44.376128
+50,Excellent quality very satisfied customer,positive,positive,0.9980373782937352,😊,2026-05-20T14:13:44.376897
